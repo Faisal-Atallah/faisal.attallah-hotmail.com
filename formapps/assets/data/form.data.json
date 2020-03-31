@@ -1,0 +1,41 @@
+[
+    {   
+        "type":"inputText",
+        "labelText": "First Name",
+        "hintText":"",
+        "position":1,
+        "readOnly": true,
+        "placeholder": "Hi Group flutter",
+        "name": "name",
+        "widget": "text",
+        "require": true,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    },
+    {   
+        "type":"inputText",
+        "labelText": "Middle Name",
+        "hintText":"",
+        "position":2,
+        "readOnly": false,
+        "placeholder": "",
+        "name": "name",
+        "widget": "text",
+        "require": false,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    },
+    {   
+        "type":"inputText",
+        "labelText": "Last Name",
+        "hintText":"",
+        "position":2,
+        "readOnly": false,
+        "placeholder": "",
+        "name": "name",
+        "widget": "text",
+        "require": true,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    }
+]

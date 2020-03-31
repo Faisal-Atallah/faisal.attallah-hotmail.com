@@ -1,0 +1,41 @@
+[
+    {   
+        "type":"phoneNumber",
+        "labelText": "mobile",
+        "hintText":"",
+        "position":1,
+        "readOnly": false,
+        "placeholder": "",
+        "name": "name",
+        "widget": "text",
+        "require": true,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    },
+    {   
+        "type":"datePicker",
+        "labelText": "First Name",
+        "hintText":"",
+        "position":2,
+        "readOnly": false,
+        "placeholder": "",
+        "name": "name",
+        "widget": "text",
+        "require": true,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    },
+    {   
+        "type":"inputNumber",
+        "labelText": "National ID",
+        "hintText":"",
+        "position":2,
+        "readOnly": false,
+        "placeholder": "",
+        "name": "name",
+        "widget": "text",
+        "require": true,
+        "obscureText":false,
+        "keyboardType":"TextInputType.text"
+    }
+]
